@@ -3,13 +3,18 @@
 Computational templates for **SEMTM0009, Mathematical Modelling in Biology,
 Medicine and Public Health** (University of Bristol).
 
-This repository holds only the notebooks you fill in. Lectures, worksheets and
+This repository holds the notebooks: a template to fill in each week, and its
+worked solutions once that week's lab is over. Lectures, worksheets and written
 solutions are on Blackboard.
 
-| Week | Notebook | Open in Colab |
+| Week | Template (fill in) | Solutions |
 |---|---|---|
-| 1 | `Week1/week1_template.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week1/week1_template.ipynb) |
-| 2 | `Week2/week2_template.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week2/week2_template.ipynb) |
+| 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week1/week1_template.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week1/week1_solutions.ipynb) |
+| 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week2/week2_template.ipynb) | after the lab |
+
+Try the template before opening the solutions. The solutions notebook is the
+template with every `# TODO` filled in and its outputs shown; the written
+solutions (PDF, on Blackboard) explain the reasoning.
 
 ## Running a notebook in Google Colab
 
