@@ -9,6 +9,7 @@ solutions are on Blackboard.
 | Week | Notebook | Open in Colab |
 |---|---|---|
 | 1 | `Week1/week1_template.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week1/week1_template.ipynb) |
+| 2 | `Week2/week2_template.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week2/week2_template.ipynb) |
 
 ## Running a notebook in Google Colab
 
@@ -25,6 +26,11 @@ a bug.**
 
 Colab needs a Google account. If you would rather not use one, the notebook is
 an ordinary `.ipynb`: download it from the green **Code** button above and run
-it in Jupyter, VS Code or Anaconda with `numpy`, `scipy` and `matplotlib`.
+it in Jupyter, VS Code or Anaconda with `numpy`, `scipy` and `matplotlib`
+(and `pandas` from Week 2).
 Week 1 also ships `week1_template.m`, the same exercise in MATLAB — use
 whichever you prefer.
+
+From Week 2 on, notebooks read data from a `data/` folder beside them. In
+Colab this is fetched automatically. If you download a notebook to run
+locally, download its `data/` folder too and keep it next to the notebook.
