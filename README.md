@@ -10,7 +10,7 @@ solutions are on Blackboard.
 | Week | Template (fill in) | Solutions |
 |---|---|---|
 | 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week1/week1_template.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week1/week1_solutions.ipynb) |
-| 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week2/week2_template.ipynb) | after the lab |
+| 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week2/week2_template.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week2/week2_solutions.ipynb) |
 
 Try the template before opening the solutions. The solutions notebook is the
 template with every `# TODO` filled in and its outputs shown; the written
