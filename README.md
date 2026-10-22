@@ -13,6 +13,7 @@ solutions are on Blackboard.
 | 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week2/week2_template.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week2/week2_solutions.ipynb) |
 | 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week3/week3_template.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week3/week3_solutions.ipynb) |
 | 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week4/week4_template.ipynb) | after the lab |
+| 5 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEMTM0009-University-of-Bristol/notebooks/blob/main/Week5/week5_template.ipynb) | after the lab |
 
 Try the template before opening the solutions. The solutions notebook is the
 template with every `# TODO` filled in and its outputs shown; the written
